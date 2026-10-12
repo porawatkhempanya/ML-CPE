@@ -1,6 +1,6 @@
 venv/
 dataset/
 .vscode/
-**/outputs/
+# **/outputs/
 __pycache__/
 *.pyc
