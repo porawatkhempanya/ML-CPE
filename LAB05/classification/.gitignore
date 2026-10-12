@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML outputs
+**/outputs/*.npy
+**/outputs/*.npz
+**/outputs/*.pkl
+**/outputs/*.joblib
+
+# Python generated files
+*.pkl
+*.joblib
+
+# OS
+Thumbs.db
+.DS_Store
